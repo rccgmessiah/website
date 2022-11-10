@@ -1,19 +1,20 @@
 
 # RCCG Messiah Website
 
-Website: https://rccgmessiahchapel.ca/
-
-The source code for the Redeem Christain Church of God, Messiah Parish is contained in this repository. The site is hosted on
-Github pages.
+The source code for the Redeem Christain Church of God, Messiah Parish is contained in this repository. 
 
 ## Why opensource ?
 
-The church website is developed by volunteers in the Church using their God giving talents to
-contribute to the work of God. 
+The church website is developed by volunteers using God given talents to
+contribute to the work of God in the Church. 
 
-Anyone can contributes by submitting pull request, raising bug issues, etc.
+We decided to opensource the code to allow other volunteers contribute to the development of this project.
 
+Anyone can contribute by submitting a pull request or raising bug issues.
 
+## Hosting
+
+This [site](https://rccgmessiahchapel.ca/) is hosted on Github pages
 
 ## Tech Stack
 
@@ -56,7 +57,7 @@ Next, go to the browser http://localhost:8080 to see the website running locally
 ## Deployment
 
 Whenever a pull request is merge to the `main` branch, the changes are deployed automatically using
-the Github workflow.
+the Github workflow action.
 
 
 ## Contributors
