@@ -3,7 +3,8 @@
 
 Website: https://rccgmessiahchapel.ca/
 
-The source code for the Redeem Christain Church of God, Messiah Parish is contained in this repository.
+The source code for the Redeem Christain Church of God, Messiah Parish is contained in this repository. The site is hosted on
+Github pages.
 
 ## Why opensource ?
 
