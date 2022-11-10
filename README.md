@@ -80,6 +80,6 @@ Please adhere to this project's `code of conduct`.
 
 Can't write code but want to support? Donations are always welcome.
 
-See ways you can give volunatarily to the church: https://rccgmessiahchapel.ca/give_serve.html
+Please see different ways you can volunatarily give to the church here: https://rccgmessiahchapel.ca/give_serve.html
 
 
